@@ -29,7 +29,7 @@ An intelligent speech processing web application that converts spoken language i
 
 ![Translation Screen](voice_translation_screen.png)  
 ![Upload Movie](upload_movie.png)  
-![Download Output](download_translated_audio_video.png)
+![Download Output](DownloadTranslatedAudioVideo.png)
 
 ---
 

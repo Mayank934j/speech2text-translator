@@ -1,0 +1,33 @@
+Command: "C:/Users/Win10/miniconda3/python.exe" process_audio.py "uploads/69bd117e3b071_dubbed_68599e194f49f_128-Zamaana Lage - Metro In Dino 128 Kbps.mp3" "en" "hi"
+Output:
+Processing audio file...
+⏱️ Duration from mediainfo: 26.623938 seconds
+Recognizing speech in chunks...
+🎵 Original Audio Duration: 26.6239375 seconds
+✅ Chunk 1: Recognized
+✅ Chunk 2: Recognized
+✅ Chunk 3: Recognized
+🧩 Total Recognized Chunks: 3
+✅ Combined recognized text:  the weather of your city is very pleasant I should still one evening if you do not feel bad then fo...
+🧩 Characters in Recognized Hindi Text: 302
+🧠 Translating recognized Hindi text to English...
+🧩 Characters in Recognized Hindi Text: 302
+🔍 Total Translation Chunks: 4
+✅ Translated chunk 1, length: 80 chars
+✅ Translated chunk 2, length: 95 chars
+✅ Translated chunk 3, length: 114 chars
+✅ Translated chunk 4, length: 2 chars
+🔎 Full Recognized Text:
+ the weather of your city is very pleasant I should still one evening if you do not feel bad then forget it we probably to be the time to forget you Lagna Sawana Lage Lage call a lot of me I started to kill me with me you do not feel infid with me in this way I felt that I started to press to call you
+🌐 Full Translated Text:
+आपके शहर का मौसम बहुत सुहावना है, अगर आपको बुरा न लगे तो एक शाम और भी बिताता हूँ भूल जाओ हम शायद तुम्हें भूलने का वक्त आ गया है लग्न सवाना लगे लगे मुझे बहुत बुलाना शुरू कर दिया मेरे साथ मुझे मारने के लिए तुम्हें मेरे साथ इस तरह से बेवफाई महसूस नहीं होती कि मैं फोन करने के लिए दबाव डालने लगा आप
+🧩 Characters in Translated Text: 294
+✅ Combined recognized text:  the weather of your city is very pleasant I should still one evening if you do not feel bad then fo...
+Generating speech with EdgeTTS...
+🧩 Total TTS chunks: 1
+❌ EdgeTTS Error in chunk 0: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=3EEBD0F10173342EFA83D0D96488D40FEC393C9900B3F2F2447E3FF81C0FD14C&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=63c5909df8df42c7a6fff2a54a01c47b'
+📦 Final audio total duration: 0 ms
+✅ Final exported audio path: outputs/dubbed_69bd117e3b071_dubbed_68599e194f49f_128-Zamaana Lage - Metro In Dino 128 Kbps.mp3
+📏 Exported file size: 44 bytes
+outputs/dubbed_69bd117e3b071_dubbed_68599e194f49f_128-Zamaana Lage - Metro In Dino 128 Kbps.mp3
+
